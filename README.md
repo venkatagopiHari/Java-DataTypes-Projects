@@ -4,6 +4,7 @@
 ## Projects
 1.Student Details  
 2.Simple Interest Calculator  
+3. Marks Calculator  
 
 ## Technologies Used 
 1.java  
